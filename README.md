@@ -15,9 +15,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-- 🔭 I’m currently working on **HCI University Project**
+- 🔭 I’m currently working on **University  Project**
 
-- 🌱 I’m currently learning **Python, mern, Software Testing Related Courses**
+- 🌱 I’m currently learning **Python, mern,java and enterprice level application development **
 
 - 📫 How to reach me **abkmadushanka@gmail.com**
 
